@@ -7,4 +7,8 @@ new extra features
 new line 1
 new line 2
 
+
 final extra line
+
+final line
+
